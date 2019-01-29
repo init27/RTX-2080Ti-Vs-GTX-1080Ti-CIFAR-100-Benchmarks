@@ -1,6 +1,6 @@
 # RTX-2080Ti-Vs-GTX-1080Ti-CIFAR-100-Benchmarks
 
-Scripts for the accompanying blogpost: 
+[Scripts for the accompanying blogpost](https://hackernoon.com/rtx-2080ti-vs-gtx-1080ti-fastai-mixed-precision-training-comparisons-on-cifar-100-761d8f615d7f?source=user_profile---------4------------------)
 
 For more details, please checkout the blogpost above.
 
